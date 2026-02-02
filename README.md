@@ -16,7 +16,7 @@
 
 ## 🚀 About me
 - BSc Computer Science @ Simon Fraser University (Minor in Statistics)
-- I build **backend services, data models, and dashboards** for high-signal workflows (payments risk, incidents, integrity)
+- I built **backend services, data models, and dashboards** at **HubSpot** for payments risk + incident workflows (100k+ merchants)
 - Research experience in **Computer Vision** + **Unity/C# simulation**
 
 ## ⭐ Impact highlights
