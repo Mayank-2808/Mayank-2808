@@ -18,13 +18,8 @@
 - BSc Computer Science @ Simon Fraser University (Minor in Statistics)
 - I built **backend services, data models, and dashboards** at **HubSpot** for payments risk + incident workflows (100k+ merchants)
 - Research experience in **Computer Vision** + **Unity/C# simulation**
-
-## ⭐ Impact highlights
-- Centralized fraud data with REST APIs for **100k+ merchants**
-- Built a React dashboard reducing incident resolution time **64h → 5h**
-- YOLOv8 object detection at **92% mAP**, with **30% faster training** + **40% lower inference latency**
-- Emotion-aware chatbot with **94% F1** (RoBERTa classifier + GPT-2 generator)
-
+- Passionate Software Developer and Data Analyst from Vancouver, Canada
+- 
 ---
 
 ## 📌 Featured projects
