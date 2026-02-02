@@ -58,13 +58,3 @@ Repo: https://github.com/Mayank-2808/Library-Management-System
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="38" height="38"/></a>
 </p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-2808&show_icons=true&locale=en&layout=compact" alt="mayank-2808" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-2808&show_icons=true&locale=en" alt="mayank-2808" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2808&" alt="mayank-2808" /></p>
