@@ -19,7 +19,7 @@
 - I built **backend services, data models, and dashboards** at **HubSpot** for payments risk + incident workflows (100k+ merchants)
 - Research experience in **Computer Vision** + **Unity/C# simulation**
 - Passionate Software Developer and Data Analyst from Vancouver, Canada
-- 
+  
 ---
 
 ## 📌 Featured projects
