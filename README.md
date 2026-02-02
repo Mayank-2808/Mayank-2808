@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">Software Engineer • Payments/Platform • AI/ML + Data • Vancouver, Canada</h3>
+<h3 align="center">Software Engineer • AI/ML + Data • Vancouver, Canada</h3>
 
 <p align="center">
   <a href="mailto:mmayankk2808@gmail.com">
@@ -9,9 +9,6 @@
   </a>
   <a href="https://linkedin.com/in/mma266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-mma266-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Mayank-2808" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mayank--2808-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
