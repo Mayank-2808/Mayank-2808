@@ -36,16 +36,16 @@ Repo: https://github.com/Mayank-2808/Emotionally-Aware-Chatbot
 Repo: https://github.com/Mayank-2808/Library-Management-System
 
 ### ⌨️ Assistive Technology Keyboard (JavaScript + Flask)
-- Accessibility-first keyboard with prediction/autocorrect + usability-focused input modes
-Repo: https://github.com/Mayank-2808/Assistive-Technology-Keyboard
+- Accessibility-first keyboard with prediction/autocorrect + usability-focused input modes  
+  Repo: https://github.com/Mayank-2808/Assistive-Technology-Keyboard
 
 ### 🎨 Skin Tone Classifier (ITA ↔ Fitzpatrick ↔ Monk)
-- Maps images across ITA/Fitzpatrick/Monk skin tone scales for analysis and reporting
-Repo: https://github.com/Mayank-2808/Skin-Tone-Classifier
+- Maps images across ITA/Fitzpatrick/Monk skin tone scales for analysis and reporting  
+  Repo: https://github.com/Mayank-2808/Skin-Tone-Classifier
 
 ### 📈 ROI Analysis for Canadian Students (SAS + R + Data Analysis)
-- ROI analysis comparing tuition/debt vs post-grad income outcomes across Canada
-Repo: https://github.com/Mayank-2808/Return-on-Investment-Analysis-for-Canadian-Students
+- ROI analysis comparing tuition/debt vs post-grad income outcomes across Canada  
+  Repo: https://github.com/Mayank-2808/Return-on-Investment-Analysis-for-Canadian-Students
 
 ---
 
