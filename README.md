@@ -35,6 +35,18 @@ Repo: https://github.com/Mayank-2808/Emotionally-Aware-Chatbot
 - Full-stack system w/ query + render optimizations  
 Repo: https://github.com/Mayank-2808/Library-Management-System
 
+### ⌨️ Assistive Technology Keyboard
+- Assistive/accessible keyboard tooling and interactions  
+Repo: https://github.com/Mayank-2808/Assistive-Technology-Keyboard
+
+### 🎨 Skin Tone Classifier
+- Image-based classification + analysis project  
+Repo: https://github.com/Mayank-2808/Skin-Tone-Classifier
+
+### 📈 Return on Investment Analysis for Canadian Students
+- Data analysis on education ROI and outcomes  
+Repo: https://github.com/Mayank-2808/Return-on-Investment-Analysis-for-Canadian-Students
+
 ---
 
 ## 🧰 Tech stack
