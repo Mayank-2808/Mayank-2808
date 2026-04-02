@@ -16,7 +16,7 @@
 
 ## 🚀 About me
 - Incoming SWE Intern @ **Amazon**, Summer 2026
-- I built **backend services, data models, and dashboards** at **HubSpot**(Summer 2025) for payments risk + incident workflows (100k+ merchants)
+- I built **backend services, data models, and dashboards** at **HubSpot** (Summer 2025) for payments risk (100k+ merchants)
 - BSc Computer Science @ Simon Fraser University (Minor in Statistics)
 - Research experience in **Computer Vision** + **Unity/C# simulation**
 - Passionate Software Developer and Data Analyst from Vancouver, Canada
